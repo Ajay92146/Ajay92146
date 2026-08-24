@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 Working on Web Development & Data Science projects  <br>🌱 Learning Python, SQL, Data Science, and modern web technologies  <br>👯 Open to collaborating on web and data analytics projects  <br>🤝 Seeking guidance on real-world data science applications  <br>💬 Ask me about web development, Python, SQL, and GitHub  <br>⚡ Fun fact: I like combining web apps with data insights<br>
+
+🔭 Working on **Data Analytics & Business Intelligence projects**
+🌱 Building expertise in **Python, SQL, Power BI, Excel, and DAX**
+📊 Turning raw data into **actionable insights, dashboards, and business reports**
+👯 Open to collaborating on **Data Analytics, BI, and visualization projects**
+🤝 Interested in solving **real-world business problems through data**
+💬 Ask me about **Python, SQL, Power BI, Excel, Data Analysis, and GitHub**
+⚡ Fun fact: I enjoy transforming complex datasets into **simple, meaningful insights**
 
 
 ## 🌐 Socials:
